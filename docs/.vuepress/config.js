@@ -5,7 +5,8 @@ module.exports = {
         sidebar: [
             '/',
             '/leetcode/821',
-            '/leetcode/388'
+            '/leetcode/388',
+            '/leetcode/824'
         ]
     }
 }
