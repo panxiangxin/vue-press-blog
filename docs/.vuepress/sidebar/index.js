@@ -14,7 +14,12 @@ module.exports = {
                 title: '面试记录',
                 collapsable: true,
                 children: getChildren('./docs/interview')
-            }]
+            }, ],
+            '/javascript/': [{
+                title: 'JS相关',
+                collapsable: true,
+                children: getChildren('./docs/javascript')
+            }],
         }
     }
 }
