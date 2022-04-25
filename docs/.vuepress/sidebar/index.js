@@ -20,6 +20,11 @@ module.exports = {
                 collapsable: true,
                 children: getChildren('./docs/javascript')
             }],
+            '/internet/': [{
+                title: '计算机网络',
+                collapsable: true,
+                children: getChildren('./docs/internet')
+            }],
         }
     }
 }

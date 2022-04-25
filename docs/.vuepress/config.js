@@ -23,6 +23,9 @@ module.exports = {
                 items: [{
                     text: ' JS相关',
                     link: '/javascript/00_promiseTask'
+                },{
+                    text: ' 计算机网络',
+                    link: '/internet/00_https'
                 }]
             },
             {
