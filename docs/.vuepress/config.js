@@ -28,10 +28,10 @@ module.exports = {
                     link: '/internet/00_https'
                 }]
             },
-            {
-                text: '面试',
-                link: '/interview/ChinaUnion'
-            },
+            // {
+            //     text: '面试',
+            //     link: '/interview/ChinaUnion'
+            // },
         ],
 
         lastUpdated: '上次更新'
