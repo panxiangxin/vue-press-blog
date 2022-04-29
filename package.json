@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "vuepress": "^1.9.7",
+    "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3"
   },
   "dependencies": {

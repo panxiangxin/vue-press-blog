@@ -44,10 +44,19 @@ module.exports = {
                 content: "复制成功"
             }
         }],
+        [
+            'vuepress-plugin-mathjax',
+            {
+              target: 'svg',
+              macros: {
+                '*': '\\times',
+              },
+            },
+          ],
     ],
 
     extraWatchFiles: [
         '.vuepress/config.js',
         '**/*.md'
-    ]
+    ],
 }
