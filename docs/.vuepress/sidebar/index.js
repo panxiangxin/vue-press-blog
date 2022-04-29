@@ -25,6 +25,11 @@ module.exports = {
                 collapsable: true,
                 children: getChildren('./docs/internet')
             }],
+            '/CSS/': [{
+                title: 'CSS相关',
+                collapsable: true,
+                children: getChildren('./docs/CSS')
+            }],
         }
     }
 }

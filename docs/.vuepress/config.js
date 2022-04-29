@@ -23,10 +23,13 @@ module.exports = {
                 items: [{
                     text: ' JS相关',
                     link: '/javascript/00_promiseTask'
-                },{
+                }, {
                     text: ' 计算机网络',
                     link: '/internet/00_https'
-                }]
+                }, {
+                    text: ' CSS',
+                    link: '/CSS/01_Typing动画实现'
+                }, ]
             },
             // {
             //     text: '面试',
@@ -47,12 +50,12 @@ module.exports = {
         [
             'vuepress-plugin-mathjax',
             {
-              target: 'svg',
-              macros: {
-                '*': '\\times',
-              },
+                target: 'svg',
+                macros: {
+                    '*': '\\times',
+                },
             },
-          ],
+        ],
     ],
 
     extraWatchFiles: [

@@ -6,8 +6,9 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "create:blog": "hygen myleetcode with-prompt",
-    "create:interview": "hygen myinterview with-prompt"
+    "create:code": "hygen myleetcode with-prompt",
+    "create:interview": "hygen myinterview with-prompt",
+    "create:blog": "hygen menu with-prompt"
   },
   "devDependencies": {
     "vuepress": "^1.9.7",
