@@ -31,6 +31,20 @@ module.exports = {
                     link: '/CSS/01_Typing动画实现'
                 }, ]
             },
+            {
+                text: '个人相关',
+                ariaLabel: '关于',
+                items: [{
+                        text: 'leetcode',
+                        link: 'https://leetcode-cn.com/u/panxiangxin/'
+                    },
+                    {
+                        text: 'Github',
+                        link: 'https://github.com/panxiangxin'
+                    }
+                ]
+            }
+
             // {
             //     text: '面试',
             //     link: '/interview/ChinaUnion'
