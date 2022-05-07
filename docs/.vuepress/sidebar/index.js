@@ -30,6 +30,11 @@ module.exports = {
                 collapsable: true,
                 children: getChildren('./docs/CSS')
             }],
+            '/typeChallenge/': [{
+                title: 'TS类型挑战',
+                collapsable: true,
+                children: getChildren('./docs/typeChallenge')
+            }],
         }
     }
 }

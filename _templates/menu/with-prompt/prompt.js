@@ -16,6 +16,10 @@ module.exports = [{
     {
       message: '计算机网络相关？',
       value: 'internet'
+    },
+    {
+      message: 'TS类型挑战？',
+      value: 'typeChallenge'
     }
   ]
 }, {

@@ -29,6 +29,9 @@ module.exports = {
                 }, {
                     text: ' CSS',
                     link: '/CSS/01_Typing动画实现'
+                }, {
+                    text: ' TS类型挑战',
+                    link: '/typeChallenge/00_start'
                 }, ]
             },
             {

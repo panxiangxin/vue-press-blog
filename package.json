@@ -8,7 +8,8 @@
     "docs:build": "vuepress build docs",
     "create:code": "hygen myleetcode with-prompt",
     "create:interview": "hygen myinterview with-prompt",
-    "create:blog": "hygen menu with-prompt"
+    "create:blog": "hygen menu with-prompt",
+    "create:ts-challenge": "hygen typeChallenge with-prompt"
   },
   "devDependencies": {
     "vuepress": "^1.9.7",
