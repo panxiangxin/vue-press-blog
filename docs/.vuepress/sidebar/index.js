@@ -35,6 +35,16 @@ module.exports = {
                 collapsable: true,
                 children: getChildren('./docs/typeChallenge')
             }],
+            '/vue2/': [{
+                title: 'Vue2相关',
+                collapsable: true,
+                children: getChildren('./docs/vue2')
+            }],
+            '/vue3/': [{
+                title: 'Vue3相关',
+                collapsable: true,
+                children: getChildren('./docs/vue3')
+            }],
         }
     }
 }

@@ -35,6 +35,17 @@ module.exports = {
                 }, ]
             },
             {
+                text: 'Vue',
+                ariaLabel: 'Vue相关',
+                items: [{
+                    text: ' Vue2',
+                    link: '/vue2/00_start'
+                }, {
+                    text: ' Vue3',
+                    link: '/vue3/00_start'
+                }, ]
+            },
+            {
                 text: '个人相关',
                 ariaLabel: '关于',
                 items: [{
