@@ -1,5 +1,5 @@
 ---
-to: docs/typeChallenge/<%= no %>.md
+to: docs/typeChallenge/<%=no%>_<%=level%>_<%=name%>.md
 ---
 
 # <%= no %> <%= name %>
@@ -10,4 +10,10 @@ to: docs/typeChallenge/<%= no %>.md
 
 ## 测试用例
 
+```ts
+```
+
 #### 实现
+
+```ts
+```
