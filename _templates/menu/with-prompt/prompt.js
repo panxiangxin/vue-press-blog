@@ -20,6 +20,14 @@ module.exports = [{
     {
       message: 'TS类型挑战？',
       value: 'typeChallenge'
+    },
+    {
+      message: 'Vue2相关？',
+      value: 'vue2'
+    },
+    {
+      message: 'Vue3相关？',
+      value: 'vue3'
     }
   ]
 }, {
