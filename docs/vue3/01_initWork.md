@@ -268,9 +268,9 @@ const { user, loggin } = useUser();
 ```
 `Vue3 composition API + TS + Vite` 可以极大提升我们的开发体验。
 
-## 3. 改进
+## 利用 `Vueuse` 改进
 
-这里介绍一个Vue 的工具库 叫做 Vue-use。这里提供了大量的工具方法，并且都是响应式的。非常方便。
+这里介绍一个`Vue`的工具库 叫做 `Vue-use`。这里提供了大量的工具方法，并且都是响应式的。非常方便。
 
 ```sh
 pnpm i @vueuse/core
